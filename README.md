@@ -24,26 +24,6 @@ El propósito de esta aplicación es facilitar la gestión del dinero mediante u
 | Git | Control de versiones. |
 | GitHub | Repositorio y almacenamiento del código. |
 
-## Estructura del proyecto
-
-```text
-AhorroPersonal/
-│
-├── app/
-│   ├── src/
-│   │   └── main/
-│   │       ├── java/
-│   │       ├── res/
-│   │       └── AndroidManifest.xml
-│   │
-│   └── build.gradle.kts
-│
-├── gradle/
-├── build.gradle.kts
-├── settings.gradle.kts
-└── README.md
-```
-
 ## Instalación y ejecución
 
 1. Clonar el repositorio:
