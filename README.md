@@ -1,12 +1,12 @@
-# 💰 Aplicación Móvil de Ahorro Personal
+# Aplicación Móvil de Ahorro Personal
 
-## 📱 Descripción
+## Descripción
 
 Aplicación móvil desarrollada en **Kotlin** utilizando Android Studio, diseñada para ayudar a los usuarios a administrar sus finanzas personales, llevar un control de sus ahorros y organizar sus metas financieras.
 
 El propósito de esta aplicación es facilitar la gestión del dinero mediante una interfaz intuitiva y herramientas que permitan mejorar los hábitos de ahorro.
 
-## 🚀 Funcionalidades principales
+## Funcionalidades principales
 
 - **Gestión de ahorros:** Permite llevar un seguimiento del dinero ahorrado.
 - **Metas de ahorro:** Organización de objetivos financieros personales.
@@ -24,7 +24,7 @@ El propósito de esta aplicación es facilitar la gestión del dinero mediante u
 | Git | Control de versiones. |
 | GitHub | Repositorio y almacenamiento del código. |
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 AhorroPersonal/
@@ -44,7 +44,7 @@ AhorroPersonal/
 └── README.md
 ```
 
-## ⚙️ Instalación y ejecución
+## Instalación y ejecución
 
 1. Clonar el repositorio:
 
@@ -58,7 +58,7 @@ git clone URL_DEL_REPOSITORIO
 5. Esperar la sincronización de Gradle.
 6. Ejecutar la aplicación en un emulador o dispositivo Android.
 
-## 📋 Requisitos
+## Requisitos
 
 - Android Studio.
 - Kotlin.
@@ -66,16 +66,16 @@ git clone URL_DEL_REPOSITORIO
 - JDK compatible con Gradle.
 - Emulador o dispositivo Android.
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Desarrollar una herramienta tecnológica que facilite la organización de las finanzas personales, fomente el hábito del ahorro y permita a los usuarios establecer y cumplir sus objetivos económicos.
 
-## 👨‍💻 Autor
+## Autor
 
 **Sebastián Chavarría Posada**
 
 Estudiante de Ingeniería de Software.
 
-## 📄 Licencia
+## Licencia
 
 Proyecto desarrollado con fines educativos y de aprendizaje.
